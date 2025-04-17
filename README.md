@@ -1,6 +1,6 @@
 # 13MIBD Template
 
-Plantilla de repositorio para la asignatura 13MBID.  
+Plantilla de repositorio para la asignatura 13MBID.  Editada por Judith Movilla Touriño para el desarrollo de la actividad
 
 **"Metodologías de Gestión de Proyectos de Big Data"**  
 *Master Universitario en Big Data y Ciencia de Datos  
